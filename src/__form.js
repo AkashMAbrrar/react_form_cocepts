@@ -9,5 +9,5 @@
  *
  * 6: set individual state field for each input field
  *
- * 4: uncontrolled element:
+ * 4: uncontrolled element: useRef to create a reference to the element and the access value by using like: nameRef.current.value
  * **/

@@ -10,4 +10,8 @@
  * 6: set individual state field for each input field
  *
  * 4: uncontrolled element: useRef to create a reference to the element and the access value by using like: nameRef.current.value
+ *
+ * 5:use hook to handle states and submit and error. example react hook form
+ *
+ * 6: Reusable component: whatever we need. form,login,to make another component
  * **/

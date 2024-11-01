@@ -1,0 +1,11 @@
+.grandpa div,
+.grandpa {
+  border: 4px solid rebeccapurple;
+  margin: 8px;
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.flex {
+  display: flex;
+}
